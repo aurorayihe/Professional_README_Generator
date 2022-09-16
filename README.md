@@ -1,37 +1,37 @@
 
-# 1
-![{ISC}](https://img.shields.io/badge/license-ISC-blue.svg)
+# Professional README Generator
+![{BSD}](https://img.shields.io/badge/license-BSD-blue.svg)
 
 ## Table of Contents
-* [Desceiption](#Description)
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contribution](#Contribution)
-* [Test](#Test)
-* [Questions](#Questions)
+* [Desciption](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Test](#test)
+* [Questions](#questions)
 
 ## Description
 
-2
+This is a command line-based application. User can generate professional README files by answering prompt questions. This application is powered by node.js
 
 ## Installation
 
-3
+Please install node.js on your local machine
 
 ## Usage
 
-4
+This application is initiated through command line. Enter command "node index.js" to start the application
 
 ## Contribution
 
-1
+Please let me know if you have any advice
 
 ## Test
 
-2
+no test for this application
 
 ## Questions
 
 Please contact me if you have any questions.
-Email: 2
-GitHub: [1](http://github.com/1)
+Email: jiongw22@gmail.com
+GitHub: [aurorayihe](http://github.com/aurorayihe)
