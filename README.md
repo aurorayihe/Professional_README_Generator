@@ -35,3 +35,8 @@ no test for this application
 Please contact me if you have any questions.
 Email: jiongw22@gmail.com
 GitHub: [aurorayihe](http://github.com/aurorayihe)
+
+## Video walk through
+https://user-images.githubusercontent.com/65201542/190561420-61a7f608-b668-45c5-b1c1-1f3a607e7218.mp4
+
+
